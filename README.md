@@ -11,3 +11,5 @@ context. Unlike earlier studies, we employed both local features, i.e., citation
 i.e., citing and cited paper similarities, and global features, i.e., citing and cited paper proximity on the
 heterogeneous graph. Evaluation result shows pairwise and global features, if properly used, can be very helpful to
 enhance the citation role labeling performance, especially while full-text data is not readily available.
+
+© Azade Sanjari 2014 All Rights reserved.
